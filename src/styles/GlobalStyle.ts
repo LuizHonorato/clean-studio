@@ -15,6 +15,6 @@ export default createGlobalStyle`
   body {
     background: #fff;
     color: #000;
-    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
   }
 `;
